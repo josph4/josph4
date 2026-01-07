@@ -20,14 +20,11 @@ I graduated from University of A Coruña in Computer Engineering, I've worked as
 </p>
 
 ## 📚 My languages
-<p align="center">
-  [![spanish flag](languages/es.svg)](https://www.duolingo.com/profile/josph4)
-  [![us flag](languages/en.svg)](https://www.duolingo.com/profile/josph4)
-</p>
+[![spanish flag](languages/es.svg)](https://www.duolingo.com/profile/josph4)
+[![us flag](languages/en.svg)](https://www.duolingo.com/profile/josph4)
 
 ## 🧠 Currently learning
-<p align="center">
-  [![french flag](languages/fr.svg)](https://www.duolingo.com/profile/josph4)
-  [![japanese flag](languages/jp.svg)](https://www.duolingo.com/profile/josph4)
-  [![russian flag](languages/ru.svg)](https://www.duolingo.com/profile/josph4)
-</p>
+[![french flag](languages/fr.svg)](https://www.duolingo.com/profile/josph4)
+[![japanese flag](languages/jp.svg)](https://www.duolingo.com/profile/josph4)
+[![russian flag](languages/ru.svg)](https://www.duolingo.com/profile/josph4)
+
