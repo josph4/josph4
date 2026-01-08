@@ -26,11 +26,12 @@ Apart from my career as a Software Engineer, I am also interested in other speci
 
 ## 📚 My languages
 
-I also love studying languages, I'm confidently fluid in both Spanish and English
+I love studying languages, and I'm confidently fluid in both Spanish and English.
+I also know some French and Japanese but I'm nowhere near as proficient, oh and I´m currently learning Russian btw.
+
 [![spanish flag](languages/es.svg)](https://www.duolingo.com/profile/josph4)
 [![us flag](languages/en.svg)](https://www.duolingo.com/profile/josph4)
 
-I also know some french and japanese but I'm nowhere near as proficient, oh and I´m currently learning russian btw
 [![french flag](languages/fr.svg)](https://www.duolingo.com/profile/josph4)
 [![japanese flag](languages/jp.svg)](https://www.duolingo.com/profile/josph4)
 [![russian flag](languages/ru.svg)](https://www.duolingo.com/profile/josph4)
