@@ -3,6 +3,8 @@
 My name is Jose and I'm based in Galicia, Spain. 
 I graduated from University of A Coruña in Computer Engineering, I've worked as a Backend Developer for //ABANCA in the past and I'm looking for a Software Engineer role to get back to work again!
 
+Despite my experience in the banking enviroment, I'm really eager to explore other areas (specially the space sector)
+
 ### 🔭 I’m currently working on personal projects while I'm on my job hunting quest
 
 ## 🛠 My stack
