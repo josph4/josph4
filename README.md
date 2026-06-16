@@ -29,10 +29,10 @@ Apart from my career as a Software Engineer, I am also interested in other speci
 I like learning new languages, at the moment I'm fluid in both Spanish and English.
 I also know some French and Japanese but I'm nowhere near as proficient, and I just picked up Russian :D
 
-[![spanish flag](languages/es.svg)]
-[![us flag](languages/en.svg)]
+![spanish flag](languages/es.svg)
+![us flag](languages/en.svg)
 
-[![french flag](languages/fr.svg)]
-[![japanese flag](languages/jp.svg)]
-[![russian flag](languages/ru.svg)]
+![french flag](languages/fr.svg)
+![japanese flag](languages/jp.svg)
+![russian flag](languages/ru.svg)
 
