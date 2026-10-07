@@ -96,4 +96,4 @@ More details and repositories on the way as I wrap things up!
 
 * I was the geek kid that installed minecraft mods on my friends computers.
 * My name is Maximus Decimus Meridius, Commander of the Armies of the North, General of the Felix Legions, loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.
-* I despise the skin of peaches, yuck.
+* I despise the texture of peach skin, yuck.
