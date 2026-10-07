@@ -5,7 +5,7 @@
 
 My name is Jose and I'm based in Galicia, Spain. I am currently pursuing a Masters' degree on Computer Engineering while doing some job hunting.
 
-I'm a Software Engineer specialized in backend development, and I have worked in the banking sector in the past. Among those projects
+I'm a Software Engineer specialized in backend development, and I have worked in the banking sector in the past.
 
 <!-- What am I interested in? -->
 
