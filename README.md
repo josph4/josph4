@@ -26,9 +26,7 @@ O⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⢠⣧⠓⣾⣿⠁⠀⠃⠀⠀�
 ⢀⣠⠁⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀.                              +                 .     +
 ```
 
-<!-- Insert cool header -->
-
-Hi! I'm **Jose** 👋
+Hey! My name is **Jose**
 
 I'm a Software Engineer from Galicia, Spain, currently pursuing a Master's degree in Computer Engineering.
 
@@ -46,7 +44,7 @@ Outside of work, I like building my own projects and experimenting with technolo
 
 <h2>My stack</h2>
 
-My bread and butter, the technologies I use most often:
+My bread and butter, what I use most often:
 <!-- I'll add Kubernetes, Kafka, Redis and GitHub Actions when I'm done with the CI/CD public project :D -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -89,8 +87,8 @@ More details and repositories on the way as I wrap things up!
     <img src="languages/en.svg"/>
     <!--img src="languages/pt.svg"/-->
     <img src="languages/fr.svg"/>
-    <img src="languages/jp.svg"/>
     <img src="languages/ru.svg"/>
+    <img src="languages/jp.svg"/>
   </a>
 </p>
 
