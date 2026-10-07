@@ -85,7 +85,7 @@ More details and repositories on the way as I wrap things up!
   <a href="https://skillicons.dev">
     <img src="languages/es.svg"/>
     <img src="languages/en.svg"/>
-    <!--img src="languages/pt.svg"/-->
+    <img src="languages/pt.svg"/>
     <img src="languages/fr.svg"/>
     <img src="languages/ru.svg"/>
     <img src="languages/jp.svg"/>
